@@ -1,2 +1,4 @@
 
-TWRP Recovery Image: SM-T290 Samsung Galaxy Tab A 
+TWRP RecoveryImage/SMT290/Samsung/Galaxy/Tab/A
+
+
